@@ -16,3 +16,4 @@ Model Training and Saving: Both models were trained and monitored using an Early
 Web Application Deployment: A user-friendly web application was built using Streamlit. This application allows a user to upload a fish image, which is then sent to the trained model for classification. The app displays the predicted fish name, its assigned category, and the model's confidence level for the prediction.
 
 This project demonstrates a comprehensive workflow for an image classification task, from data handling and model development to practical deployment in a web application.
+<img width="969" height="757" alt="image" src="https://github.com/user-attachments/assets/67d868f6-9bac-4e69-ac94-0a1cb5966290" />
